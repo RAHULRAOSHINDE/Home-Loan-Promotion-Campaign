@@ -1,0 +1,4 @@
+FieldName,DataType,Details
+CustomerId,numeric
+housing,string,has housing loan? (binary: "yes","no")
+loan,string,has personal loan? (binary: "yes","no")
